@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohjahon-n&label=Profile%20views&color=0e75b6&style=flat" alt="shohjahon-n" /> </p>
 
-- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **pazvat360@gmail.com**
 
