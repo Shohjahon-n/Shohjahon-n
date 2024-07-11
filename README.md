@@ -1,5 +1,3 @@
-<img align="top" alt="coding" width="1440" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-<br>
 <h1 align="center">Assalomu Alaykum there 👋</h1>
 
 ###
