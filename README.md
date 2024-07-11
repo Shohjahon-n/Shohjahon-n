@@ -8,7 +8,7 @@
 
 ###
 
-#### My name is Shohjaxon and I'm a Frontend Engineer, from <img height="15" src="./assets/uzb.svg" alt="no icon"/> **Uzbekistan, Karshi**
+#### My name is Shohjaxon and I'm a Frontend Engineer, from <img height="15" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/uz.svg" alt="Uzbekistan Flag"/> **Uzbekistan, Karshi**
 
 ##### - 📚 I am currently deep learning JavaScript and TypeScript.
 
@@ -23,7 +23,7 @@
 ###
 
 <div align="left">
-  <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" height="40" alt="tailwindcss logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
@@ -47,4 +47,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
-
