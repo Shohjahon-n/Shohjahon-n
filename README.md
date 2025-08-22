@@ -6,7 +6,7 @@
 
 ###
 
-#### My name is Shohjahon and I'm a Frontend Engineer
+#### My name is Shohjahon and I'm a Software Engineer
 
 ##### - 📚 I am currently deep learning Dart and TypeScript.
 
