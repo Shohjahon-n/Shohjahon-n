@@ -8,9 +8,9 @@
 
 #### My name is Shohjahon and I'm a Software Engineer
 
-##### - 📚 I am currently deep learning Dart and TypeScript.
+##### - 📚 I am currently deep learning Algorithms.
 
-##### - ⚡ In my spare time I sometimes play CS2 and Dota2.
+##### - ⚡ In my spare time I sometimes play CS2.
 
 ##### - 🎯 My future goal is to become one of the best professionals in my field and to teach my field to others.
 
