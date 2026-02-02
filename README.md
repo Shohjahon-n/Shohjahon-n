@@ -1,24 +1,91 @@
-<h1 align="center">Assalomu Alaykum there 👋</h1>
+# Shohjahon
 
-###
+Software Engineer
 
-### 👩‍💻 About Me
+Clean code. Scalable systems. Long-term thinking.
 
-###
+---
 
-#### My name is Shohjahon and I'm a Software Engineer
+## About
 
-##### - 📚 I am currently deep learning Algorithms.
+- Software Engineer focused on modern web and cross-platform development
+- Experience with building scalable and production-ready applications
+- Strong emphasis on clean architecture and maintainable code
+- Actively expanding knowledge in Deep Learning and advanced algorithms
+- Oriented toward long-term growth and technical excellence
 
-##### - ⚡ In my spare time I sometimes play CS2.
+---
 
-##### - 🎯 My future goal is to become one of the best professionals in my field and to teach my field to others.
+## Tech Stack
 
-###
+**Core**
+- JavaScript, TypeScript
+- Git, GitHub, GitLab
 
+**Frontend**
+- React, Next.js (App Router, Server Components)
+- Redux, TanStack Query, React Hook Form
+- Tailwind CSS, SASS
+- Ant Design, Chakra UI
+- Vite
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shohjahon_kaizen) 
+**Backend**
+- Node.js, Express.js, NestJS
+- JWT-based authentication
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+**Mobile**
+- Dart, Flutter
+
+**Databases**
+- MongoDB
+- PostgreSQL
+- Firebase
+
+---
+
+## Engineering Practices
+
+- Clean code principles
+- Clean Architecture and modular design
+- Server-first and API-driven development
+- Scalable and maintainable application structure
+
+---
+
+## Real Projects
+
+- **yemak.uz**  
+  Food-related web platform focused on performance, scalability, and clean UI architecture
+
+- **owa.uz**  
+  Web application built with modern frontend patterns and production-ready structure
+
+- **elmed.uz**  
+  Medical-oriented web platform with emphasis on reliability, data handling, and clean system design
+
+- **Suv Kerak** (Mobile App)  
+  Cross-platform mobile application built with Flutter, focused on real-world usage and maintainability
+
+---
+
+## Currently Exploring
+
+- Frontend performance and data-fetching strategies
+- Backend system design with NestJS
+- AI-assisted development workflows
+- Practical applications of Deep Learning
+
+---
+
+## DevOps & Workflow
+
+- GitHub Actions for CI/CD
+- Environment-based configurations
+- Automated build and deployment pipelines
+
+---
+
+## Contact
+
+- Telegram: https://t.me/ergashevTech
+- Instagram: https://instagram.com/shohjahon_kaizen
