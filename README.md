@@ -1,91 +1,37 @@
-# Shohjahon
+<div align="center">
 
-Software Engineer
+# Shohjahon Ergashev
 
-Clean code. Scalable systems. Long-term thinking.
+Software Engineer — Full-Stack & Mobile
 
----
+*Clean code. Scalable systems. Long-term thinking.*
 
-## About
-
-- Software Engineer focused on modern web and cross-platform development
-- Experience with building scalable and production-ready applications
-- Strong emphasis on clean architecture and maintainable code
-- Actively expanding knowledge in Deep Learning and advanced algorithms
-- Oriented toward long-term growth and technical excellence
+</div>
 
 ---
 
-## Tech Stack
-
-**Core**
-- JavaScript, TypeScript
-- Git, GitHub, GitLab
-
-**Frontend**
-- React, Next.js (App Router, Server Components)
-- Redux, TanStack Query, React Hook Form
-- Tailwind CSS, SASS
-- Ant Design, Chakra UI
-- Vite
-
-**Backend**
-- Node.js, Express.js, NestJS
-- JWT-based authentication
-
-**Mobile**
-- Dart, Flutter
-
-**Databases**
-- MongoDB
-- PostgreSQL
-- Firebase
+Full-stack engineer with hands-on experience building production web and mobile applications. I work across the stack — from React/Next.js frontends to NestJS backends and Flutter mobile apps — with a focus on clean architecture and maintainable code.
 
 ---
 
-## Engineering Practices
+## Stack
 
-- Clean code principles
-- Clean Architecture and modular design
-- Server-first and API-driven development
-- Scalable and maintainable application structure
+TypeScript · React · Next.js · NestJS · Node.js · Flutter · PostgreSQL · MongoDB
 
 ---
 
-## Real Projects
+## Projects
 
-- **yemak.uz**  
-  Food-related web platform focused on performance, scalability, and clean UI architecture
+**[yemak.uz](https://yemak.uz)** — Food delivery platform · Next.js · FSD architecture
 
-- **owa.uz**  
-  Web application built with modern frontend patterns and production-ready structure
+**[owa.uz](https://owa.uz)** — Full-stack web application · Next.js · FSD architecture
 
-- **elmed.uz**  
-  Medical-oriented web platform with emphasis on reliability, data handling, and clean system design
+**[elmed.uz](https://elmed.uz)** — Medical CRM system · Next.js, NestJS, PostgreSQL
 
-- **Suv Kerak** (Mobile App)  
-  Cross-platform mobile application built with Flutter, focused on real-world usage and maintainability
-
----
-
-## Currently Exploring
-
-- Frontend performance and data-fetching strategies
-- Backend system design with NestJS
-- AI-assisted development workflows
-- Practical applications of Deep Learning
-
----
-
-## DevOps & Workflow
-
-- GitHub Actions for CI/CD
-- Environment-based configurations
-- Automated build and deployment pipelines
+**Suv Kerak** — On-demand delivery mobile app · Flutter, Dart
 
 ---
 
 ## Contact
 
-- Telegram: https://t.me/ergashevTech
-- Instagram: https://instagram.com/shohjahon_kaizen
+[Telegram](https://t.me/ergashevTech) · [Instagram](https://instagram.com/shohjahon_kaizen)
